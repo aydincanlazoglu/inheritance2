@@ -3,11 +3,11 @@ package inheritance2;
 public class LogManager {
 	public void log(int logType) {
 		if(logType == 1) {
-			System.out.println("Veritabaný Longlandý");
+			System.out.println("Veritabani LonglandÄ±");
 		}else if(logType== 2) {
-			System.out.println("Dosya longlandý");
+			System.out.println("Dosya longlandÄ±");
 		}else {
-			System.out.println("Email Gönderildi");
+			System.out.println("Email GÃ¶nderildi");
 		}
 	}
 }
